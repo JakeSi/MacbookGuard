@@ -26,7 +26,7 @@ onCtrlC()
 {
   turnNoSleepOff
   # Reset the volume to medium value
-  osascript -e "set Volume 5"
+  osascript -e "set Volume 3"
   exit
 }
 
